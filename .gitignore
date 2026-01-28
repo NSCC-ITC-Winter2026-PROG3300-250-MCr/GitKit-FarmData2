@@ -17,3 +17,11 @@ farmdata2_modules/**/cypress/videos/*
 **/__pycache__
 
 .DS_Store
+
+# AI assistants / local AI tooling
+.chatgpt/
+.claude/
+.gemini/
+.ai/
+ai/
+ai-tools/
